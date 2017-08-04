@@ -1,0 +1,64 @@
+@import url('https://fonts.google.com/specimen/Rock+Salt?selection.family=Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Raleway:900i');
+
+.search-bar {
+    margin: 20px;
+    text-align: center;
+
+}
+
+.search-bar input {
+    width: 75%;
+}
+
+.video-item img {
+    max-width: 64px;
+}
+
+ .video-detail .details{
+margin-top: 10px;
+padding: 10px;
+border: 1px solid #ddd;
+border-radius: 4px;
+color: white;
+font-family: 'Rock Salt', cursive;
+background-color: #454143;
+} 
+
+.snippetTitle {
+    font-weight: bold;
+}
+
+
+.list-group-item {
+    cursor: pointer;
+    font-family: 'Rock Salt', cursive;
+}
+
+.list-group-item:hover {
+    background-color: #454143;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+}
+
+
+.title {
+    text-align: center;
+    margin: 15px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+body {
+background: linear-gradient(180deg, #F7370D, #F70D78);
+width: 100%;
+
+} 
+
+footer {
+    margin: 10px;
+    padding: 5px;
+}
+
